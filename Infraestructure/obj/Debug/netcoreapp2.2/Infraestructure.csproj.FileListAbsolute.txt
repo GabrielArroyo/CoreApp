@@ -1,0 +1,9 @@
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\bin\Debug\netcoreapp2.2\Infraestructure.deps.json
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\bin\Debug\netcoreapp2.2\Infraestructure.dll
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.csprojAssemblyReference.cache
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.AssemblyInfo.cs
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\bin\Debug\netcoreapp2.2\Infraestructure.pdb
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.dll
+C:\Users\arroyopg\source\repos\WebApplication3\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.pdb

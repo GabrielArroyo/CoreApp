@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "_ListUsers";
+}
+
+<h1>ListUsers</h1>
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+</style>
+
+<div>
+    <table>
+
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>LastName</th>
+            <th>Identified</th>
+            <th>Hour Enter</th>
+            <th>Hour Lefts</th>
+
+        </tr>
+        @foreach (var user in  ViewData["Usuarios"] as IList<Infraestructure.Infrastructure.Data.DataModels.Users>)
+        {
+    <tr>
+        <td>@user.Id</td>
+        <td>@user.Name</td>
+        <td>@user.LastName</td>
+        <td>@user.Identified</td>
+        <td>@user.HourEnter</td>
+        <td>@user.Hourleft</td>
+    </tr>
+        }
+    </table>
+</div>
