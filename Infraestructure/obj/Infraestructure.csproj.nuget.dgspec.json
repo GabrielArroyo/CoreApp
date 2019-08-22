@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Infraestructure\\Infraestructure.csproj": {}
+    "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Infraestructure\\Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Infraestructure\\Infraestructure.csproj",
+        "projectPath": "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Infraestructure\\Infraestructure.csproj",
         "packagesPath": "C:\\Users\\arroyopg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

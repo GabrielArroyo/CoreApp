@@ -5553,11 +5553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\arroyopg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5576,8 +5576,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\arroyopg\\source\\repos\\WebApplication3\\Infraestructure\\Infraestructure.csproj"
+            "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\arroyopg\\Desktop\\Git\\CoreApp\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }
